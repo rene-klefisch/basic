@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic</string>
+    <string name="vorname">Vorname</string>
+    <string name="name">Nachname</string>
+    <string name="alter">Alter</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="next">Weiter</string>
+    <string name="mainActivityWelcomeMsg">Hallo ich bin ein Text</string>
+</resources>
